@@ -1,5 +1,5 @@
 # Project: lab029-maven-app
-### Author: Frank Effrim-Botchey
+Author: Frank Effrim-Botchey
 ### This lab creates a simple java app and stores the code on Github.  When the code is updated, the app is automatically built and tested.  If it builds successfully, it is then executed.
 
 # Part 1 Objectives: 
